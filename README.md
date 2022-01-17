@@ -1,4 +1,3 @@
-.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
-        :target: https://opensource.org/licenses/GNU General Public License v3.0
-        
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/SirWilliam254/Feature-Importance/blob/main/LICENSE)
+
 # Feature-Importance
