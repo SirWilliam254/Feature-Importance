@@ -2,7 +2,7 @@
 # Feature-Importance
 
 - permutation importance
-[in an example! ](https://sirwilliam254.github.io/Feature-Importance/feat.html)
+[EXAMPLE! ](https://sirwilliam254.github.io/Feature-Importance/feat.html)
 
 Output:
 ![image](https://github.com/SirWilliam254/Feature-Importance/blob/main/permutationimporatance.png)
