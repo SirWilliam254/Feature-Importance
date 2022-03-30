@@ -29,3 +29,9 @@ Partial dependence plots demonstrate how a property influences the prediction. P
 - pdpbox
 
 - # SHAP
+
+
+### DEPENDENCIES
+- shap
+- pandas
+- numpy
