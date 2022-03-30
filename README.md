@@ -22,6 +22,10 @@ Partial dependence plots demonstrate how a property influences the prediction. P
 
 [Coding EXAMPLE!](https://sirwilliam254.github.io/Feature-Importance/pdp.html)
 
+Output example of a pdp plot
+
+![image](https://github.com/SirWilliam254/Feature-Importance/blob/main/pdp1.PNG)
+
 ### DEPENDENCIES
 - pandas
 - sklearn
