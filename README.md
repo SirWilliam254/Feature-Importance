@@ -33,6 +33,7 @@ Output example of a pdp plot, more information about it in the link above.
 - pdpbox
 
 - # SHAP
+SHAP Values (an acronym from SHapley Additive exPlanations) break down a prediction to show the impact of each feature.
 
 [Coding EXAMPLE!](https://sirwilliam254.github.io/Feature-Importance/shap.html)
 
