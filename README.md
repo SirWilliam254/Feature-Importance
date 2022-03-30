@@ -11,4 +11,6 @@ Output from the coding example above:
 
 As from the screenshot above we can see the most usefull feature to the least useful in that sequence
 - pdp
+Partial dependence plots demonstrate how a property influences the prediction. Partial dependency charts, like permutation importance, are computed after a model has been fitted. The model is fitted to real-world data that has not been modified in any manner.
+[Coding EXAMPLE!](https://sirwilliam254.github.io/Feature-Importance/pdp.html)
 - shap
