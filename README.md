@@ -12,7 +12,9 @@ Output from the coding example above:
 As from the screenshot above we can see the most usefull feature to the least useful in that sequence
 
 ### DEPENDENCIES
-
+- pandas
+- eli5
+- sklearn
 
 - # PDP
 
