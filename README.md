@@ -34,7 +34,7 @@ Output example of a pdp plot, more information about it in the link above.
 
 - # SHAP
 
-
+![image](https://github.com/SirWilliam254/Feature-Importance/blob/main/one.PNG)
 ### DEPENDENCIES
 - shap
 - pandas
