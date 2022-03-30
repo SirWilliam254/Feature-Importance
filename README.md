@@ -34,6 +34,8 @@ Output example of a pdp plot, more information about it in the link above.
 
 - # SHAP
 
+[Coding EXAMPLE!](https://sirwilliam254.github.io/Feature-Importance/shap.html)
+
 ![image](https://github.com/SirWilliam254/Feature-Importance/blob/main/one.PNG)
 ### DEPENDENCIES
 - shap
